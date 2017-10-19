@@ -1,0 +1,88 @@
+/* login */
+body{
+    background: #e5e5e5;
+}
+.form-login{
+    margin-top: 13%;
+}
+.outter-form-login {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-radius: 5px;
+}
+.logo-login {
+	position: absolute;
+	font-size: 35px;
+	background: #21A957;
+	color: #FFFFFF;
+	padding: 10px 18px;
+	top: -91px;
+	border-radius: 50%;
+	left: 170px;
+}
+.inner-login .form-control {
+    background: #D3D3D3;
+}
+h3.title-login {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.forget {
+    margin-top: 20px;
+    color: #ADADAD;
+}
+.btn-custom-green {
+    background: #21A957;
+    color: #fff;
+}
+
+
+/*menu utama*/
+.meta-post {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.header header {
+    background-color: #fff;
+    padding: 10px 20px;
+}
+
+nav.menus {
+    background-color: #21A957;
+    padding: 10px;
+}
+
+nav.menus ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav.menus ul li {
+    display: inline-block;
+}
+
+nav.menus ul li a {
+    display: block;
+    padding: 3px 7px;
+    color: #fff;
+}
+
+nav.menus ul li a:hover, nav.menus ul li a:focus{
+    text-decoration: none;
+    background-color: #208828;
+    color: #fff;
+}
+
+article.posts {
+    padding: 10px 20px;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+footer.copyright {
+    padding: 10px 20px;
+    font-size: 12px;
+}
