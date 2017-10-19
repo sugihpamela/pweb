@@ -1,0 +1,4 @@
+[19-Oct-2017 15:03:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/directse/public_html/pweb/view.php:60) in /home/directse/public_html/pweb/send.php on line 72
+[19-Oct-2017 15:04:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/directse/public_html/pweb/view.php:60) in /home/directse/public_html/pweb/send.php on line 72
+[19-Oct-2017 15:06:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/directse/public_html/pweb/view.php:60) in /home/directse/public_html/pweb/send.php on line 72
+[19-Oct-2017 15:08:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/directse/public_html/pweb/view.php:60) in /home/directse/public_html/pweb/send.php on line 72
